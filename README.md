@@ -1,2 +1,2 @@
-SPring lesson:
-20220218 - GIT repository creation "spring-Bootkus"
+SPRING LESSON:
+> 20220218 - GIT repository creation "spring-Bootkus"
